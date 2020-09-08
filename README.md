@@ -16,16 +16,20 @@ Greetings welcome to Password Manager...
 
  * then you can create your account or login:
  Sign Up
-**************************************************
+
+ 
 User_name: jessevictor
  TP - To type your own pasword:
  GP - To generate random Password
 
  * you can select either of the above to get started.
  once you create  your password you will promped with:
- *************************************************************************************
+
+
 Hello jessevictor, Your account has been created succesfully! Your password is: Jesse199
-*************************************************************************************
+
+
+
 Use these short codes:
  CC - Create a new credential 
  DC - Display Credentials 
